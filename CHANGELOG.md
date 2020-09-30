@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.121.0](https://www.github.com/googleapis/java-bigquery/compare/v1.120.0...v1.121.0) (2020-09-30)
+
+
+### Features
+
+* use bigquery exception ([#749](https://www.github.com/googleapis/java-bigquery/issues/749)) ([84d6632](https://www.github.com/googleapis/java-bigquery/commit/84d6632dbbdb9ccaf4afba545ec94a1156a989a2))
+
+
+### Bug Fixes
+
+* nullpointer exception when executionerror is null ([#754](https://www.github.com/googleapis/java-bigquery/issues/754)) ([03bda1b](https://www.github.com/googleapis/java-bigquery/commit/03bda1bf79169bf0fca3ee12c1c3dfeb19c2e102))
+
+
+### Documentation
+
+* **samples:** add region tag for auth snippet ([#760](https://www.github.com/googleapis/java-bigquery/issues/760)) ([9709c9e](https://www.github.com/googleapis/java-bigquery/commit/9709c9e401a512b6ab8e3ded52420597e30c7b0c))
+* **samples:** fix flaky test case for undelete table ([#757](https://www.github.com/googleapis/java-bigquery/issues/757)) ([85b7069](https://www.github.com/googleapis/java-bigquery/commit/85b70691cc380beeafa839be4f10ec513342389f))
+
+
+### Dependencies
+
+* update dependency com.google.apis:google-api-services-bigquery to v2-rev20200916-1.30.10 ([#768](https://www.github.com/googleapis/java-bigquery/issues/768)) ([6f8911a](https://www.github.com/googleapis/java-bigquery/commit/6f8911a356daf3dec79431491e40b1bfa1c20d4d))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.10.0 ([#769](https://www.github.com/googleapis/java-bigquery/issues/769)) ([49dbbba](https://www.github.com/googleapis/java-bigquery/commit/49dbbba8d1726e7277eb0ad8e168ff0a480daf0e))
+* update dependency com.google.cloud:google-cloud-storage to v1.113.1 ([#770](https://www.github.com/googleapis/java-bigquery/issues/770)) ([34f30ec](https://www.github.com/googleapis/java-bigquery/commit/34f30ec2fea28e053fdb32d766749c8d6d0e115c))
+
 ## [1.120.0](https://www.github.com/googleapis/java-bigquery/compare/v1.119.0...v1.120.0) (2020-09-22)
 
 
